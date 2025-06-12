@@ -9,7 +9,7 @@ This is an extension created to help students who are struggling with their spar
 # Installation Guide
 In order to install the script, please use the following instructions:
 1. Go to chrome://extensions/ and enable developer mode
-2. Install the extension from this github repo
+2. Install the extension from this github repo. You will need to unzip it
 3. In chrome://extensions/, click Load Unpacked and install it by navigating to the folder you just downloaded
 4. (Optional) If you wish to use it incognito mode, click on details and allow in incognito
 5. Pin the extension by going to the top bar (To the right of the search bar) and hitting the pin button
