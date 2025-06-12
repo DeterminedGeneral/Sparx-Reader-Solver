@@ -1,0 +1,30 @@
+{
+  "manifest_version": 3,
+  "name": "Sparx Reader Solver",
+  "version": "1.0.0",
+  "icons": {
+    "16": "icons/sparx_16.png",
+    "32": "icons/sparx_32.png",
+    "48": "icons/sparx_48.png",
+    "128": "icons/sparx_128.png"
+  },
+
+  "background": {
+    "service_worker": "dist/background.bundle.js",
+    "type": "module"
+  },
+
+  "action": {
+    "default_popup": "src/popup.html"
+  },
+
+  "content_scripts": [
+    {
+      "matches": ["https://reader.sparx-learning.com/*"],
+      "js": ["dist/content.bundle.js"],
+      "run_at": "document_end"
+    }
+  ],
+
+  "permissions": ["storage", "activeTab", "scripting"]
+}
