@@ -20,5 +20,8 @@ In order to install the script, please use the following instructions. The instr
 8. Hit save and test to make sure it works
 9. Enjoy! The script should give you the answers for the Sparx Reader questions.
 
+# Demonstration of the Extension
+https://github.com/user-attachments/assets/570c4489-e924-4de8-a8fe-62601dd1efb7
+
 # Discord Server
 [https://discord.gg/5hjGqbbxGw](https://discord.gg/5hjGqbbxGw)
