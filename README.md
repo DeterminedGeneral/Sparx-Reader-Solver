@@ -7,7 +7,7 @@ This is an extension created to help students who are struggling with their spar
 - Use at your own risk of getting caught
 
 # Installation Guide
-In order to install the script, please use the following instructions:
+In order to install the script, please use the following instructions. The instructions use chrome as the example, the extension works on other browsers like edge by going to the relevant extensions page (edge://extensions/ for example).
 1. Go to chrome://extensions/ and enable developer mode
 2. Install the extension from this github repo. You will need to unzip it
 3. In chrome://extensions/, click Load Unpacked and navigate to the folder you just unzipped. Click Select Folder to add it to your extensions
