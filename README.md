@@ -10,7 +10,7 @@ This is an extension created to help students who are struggling with their spar
 In order to install the extension, please use the following instructions. The instructions use chrome as the example, the extension works on other browsers like edge by going to the relevant extensions page (edge://extensions/ for example).
 1. Go to chrome://extensions/ and enable developer mode
 2. Install the extension from this github repo by clicking on <> code and download as zip. You will need to unzip it
-![image](https://github.com/user-attachments/assets/d56b7e3d-3c89-4dee-a437-ce6b23b1c143)
+![image](https://github.com/user-attachments/assets/2e15a8a8-620c-433b-831a-0496162673cf)
 3. In chrome://extensions/, click Load Unpacked and navigate to the folder you just unzipped. Click Select Folder to add it to your extensions
 ![image](https://github.com/user-attachments/assets/67a03df7-eba2-4c94-a00c-211b14ad9214)
 4. (Optional) If you wish to use it incognito mode, click on details and allow in incognito
